@@ -1,0 +1,123 @@
+html{
+    background-color:steelblue;
+}
+body{
+
+    color: black;
+  background-color: teal ;
+    width: 850px;
+    padding: 15px;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid lightcoral;
+    box-shadow: 0 0 100px  black;
+}
+   
+
+header{ 
+    margin: 5px 1px 5px 5px;
+    padding: 5px 5px;
+    height: 20%;
+
+  
+   
+}
+
+
+h1{
+    
+   color: white;
+   text-shadow: 0 5px 7px #333, 0px -5px 7px #4444, -10px 0 17px #ddd, 10px 0 17px #ff9;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size:60px;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Lobster Regular'), local('Lobster-Regular'), url(https://fonts.gstatic.com/s/lobster/v22/neILzCirqoswsqX9zoKmM4MwWJU.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+ 
+   
+}
+img{
+    width:80%;
+    padding-left: 30px;
+   
+}
+h2{
+    color: white;
+    font-size: 40px;
+    border-bottom: 8px solid lightcoral;
+    text-align: center;
+}
+h3{
+    color: white;
+    font-size: 24 px;
+    font-weight: bold;
+    border-bottom: 5px solid lightcoral;
+    text-align: justify;
+}
+h4{
+    font-size: 18px;
+}
+section{
+    margin:5px;
+}
+section ul {
+
+
+        list-style-type: none;
+
+}
+.intro{
+    background-color: steelblue;
+}
+.project1{
+    width: 45%;
+    margin-right: -30px;
+    margin-left: 10px;
+    padding:1px 4px 2px 4px;
+   
+    
+    background-color: steelblue;}
+  
+
+.project2{
+    float: right;
+    width: 45%;
+    margin-right: 10px;
+    margin-left: -30px;
+    padding:1px 10px 1opx 4px;
+    margin-top: -530px;
+background-color: steelblue;}
+
+.part2{
+  
+  
+    margin-left: 10px;
+  
+}
+aside{
+    margin:1px 1px;
+    padding:5px;
+}
+.align
+{
+    color:navy;
+    padding :5px;
+    background-color:steelblue;
+    
+}
+
+a{
+color:  wheat;
+text-decoration: none;
+}
+
+footer{
+    margin-top: 40px;
+    margin-bottom: 5px;
+  padding: 5px 10px ;
+    background-color: steelblue;
+}
+
